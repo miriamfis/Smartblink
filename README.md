@@ -14,7 +14,7 @@ Raspberry-Zusatzboards wahlweise gleichzeitig blinken lässt oder als Lauflicht 
 5. Die grafische Oberfläche soll nicht verändert werden.
 6. Die zu erstellende Programmlogik in C++ soll der Funktionalität der Vorlage (lauffähiges Programm unter `./bin/Smartblink`) entsprechen: 
    Nach dem Start des Programmes blinken zunächst alle 4 LEDs gleichzeitig mit der Frequenz 1 Hz. Mittels des
-   Schiebereglers kann die Frequenz zwischen 1 ... 10 Hz variiert werden. Die Radiobuttons ermöglichen die Umschaltung
+   Schiebereglers kann die Frequenz zwischen 1 ... 20 Hz variiert werden. Die Radiobuttons ermöglichen die Umschaltung
    zwischen Blinker und Lauflicht. Nach dem  Schließen des Programmfensters sollen alle LEDs ausgeschaltet sein.
 7. Wenn alles wunschgemäß funktioniert, lade den aktualisierten Quellcode wieder auf deinen Account (git-Ablauf wie gelernt).
 
